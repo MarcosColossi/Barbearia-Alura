@@ -1,0 +1,70 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+header {
+    padding-left: 15px;
+}
+#banner {
+    width: 100%;
+}
+
+.titulo-centralizado {
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+}
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font: 20px;
+}   
+
+em strong {
+    color: #FF0000;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+.rodape {
+    height: 40px;
+    background-color: #CCCCCC;
+    margin: 0px;
+}
+
+p {
+    padding: 5px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+a {
+    font-family: 'Fredericka the Great', cursive;
+    text-align: left;
+    font-size: 1.1em;
+    color: black;
+
+}
